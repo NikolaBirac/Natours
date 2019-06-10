@@ -4,7 +4,9 @@ Static website
 Technologies:
 - HTML5 
 - SASS
+- BEM
 - NPM
+
 
 ## How to run 
 - step 1: Clone or download repository
